@@ -1,0 +1,18 @@
+00:14:27,435 root INFO before call
+00:14:27,435 root INFO after call
+00:14:39,250 root INFO before call
+00:14:39,250 root INFO after call
+00:14:44,612 root INFO before call
+00:14:44,612 root INFO after call
+00:15:14,706 root INFO before call <function multiply at 0x100526160>
+00:15:14,706 root INFO after call
+00:16:11,189 root INFO before call multiply
+00:16:11,189 root INFO after call
+00:17:39,586 root INFO calling function multiply with args (2, 2)
+00:17:39,587 root INFO after call
+00:17:55,270 root INFO calling function multiply with args {}
+00:17:55,270 root INFO after call
+00:19:32,926 root INFO calling function multiply with args (2, 2)
+00:19:32,926 root INFO function multiply return 4
+00:19:52,318 root INFO calling function multiply with args (2, 2)
+00:19:52,318 root INFO function multiply return 4
