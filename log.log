@@ -1,29 +1,3 @@
-00:14:27,435 root INFO before call
-00:14:27,435 root INFO after call
-00:14:39,250 root INFO before call
-00:14:39,250 root INFO after call
-00:14:44,612 root INFO before call
-00:14:44,612 root INFO after call
-00:15:14,706 root INFO before call <function multiply at 0x100526160>
-00:15:14,706 root INFO after call
-00:16:11,189 root INFO before call multiply
-00:16:11,189 root INFO after call
-00:17:39,586 root INFO calling function multiply with args (2, 2)
-00:17:39,587 root INFO after call
-00:17:55,270 root INFO calling function multiply with args {}
-00:17:55,270 root INFO after call
-00:19:32,926 root INFO calling function multiply with args (2, 2)
-00:19:32,926 root INFO function multiply return 4
-00:19:52,318 root INFO calling function multiply with args (2, 2)
-00:19:52,318 root INFO function multiply return 4
-00:32:34,583 root INFO calling function new_player with args (2, 2) and kwargs {}
-00:32:34,583 root INFO function new_player return <__main__.Player object at 0x10062ed50>
-00:33:47,900 root INFO calling function new_player with args (2, 2) and kwargs {'name': 'Marius'}
-00:33:47,900 root INFO function new_player return <__main__.Player object at 0x1010caf10>
-00:34:36,975 root INFO calling function new_player with args (2, 2) and kwargs {'name': 'Marius'}
-00:34:44,923 root INFO calling function new_player with args (2, 2) and kwargs {'name': 'Marius'}
-00:34:44,923 root INFO function new_player return <method-wrapper '__ne__' of Player object at 0x10322af10>
-00:34:56,790 root INFO calling function new_player with args (2, 2) and kwargs {'name': 'Marius'}
-00:34:56,790 root INFO function new_player return <__main__.Player object at 0x103062f10>
-00:35:09,821 root INFO calling function new_player with args (100, 20) and kwargs {'name': 'Marius'}
-00:35:09,822 root INFO function new_player return <__main__.Player object at 0x100d9ef10>
+00:54:33,365 root INFO calling function new_player with args (100, 20) and kwargs {'name': 'Marius'}
+00:54:41,321 root INFO calling function new_player with args (100, 20) and kwargs {'name': 'Marius'}
+00:54:41,321 root INFO function new_player return <__main__.Player object at 0x104ee0c10>
