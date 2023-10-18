@@ -1,3 +1,5 @@
 00:54:33,365 root INFO calling function new_player with args (100, 20) and kwargs {'name': 'Marius'}
 00:54:41,321 root INFO calling function new_player with args (100, 20) and kwargs {'name': 'Marius'}
 00:54:41,321 root INFO function new_player return <__main__.Player object at 0x104ee0c10>
+15:10:36,744 root INFO calling function new_player with args (100, 20) and kwargs {'name': 'Marius'}
+15:10:36,744 root INFO function new_player return <__main__.Player object at 0x102f6a3d0>
